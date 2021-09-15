@@ -1,4 +1,4 @@
-<h1>👩‍💻 App - React </h1>
+<h1>👩‍💻 App - Fundamentos </h1>
 
 [![Technology][react-image]][react-url]
 
