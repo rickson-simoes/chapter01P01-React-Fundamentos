@@ -1,0 +1,8 @@
+{
+  "name": "chapter01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rickson-simoes/chapter01P01-React-Fundamentos.git",
+  "author": "Rickson <rickson.simoes@hotmail.com>",
+  "license": "MIT"
+}
