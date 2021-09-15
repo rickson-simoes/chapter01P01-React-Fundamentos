@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/rickson-simoes/chapter01P01-React-Fundamentos.git",
   "author": "Rickson <rickson.simoes@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
