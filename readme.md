@@ -1,6 +1,6 @@
-<h1>👩‍💻 App - React - [![Technology][react-image]][react-url] </h1>
+<h1>👩‍💻 App - React </h1>
 
-
+[![Technology][react-image]][react-url]
 
 
 [react-url]: https://reactjs.org/
