@@ -3,8 +3,8 @@ import { useState } from 'react';
 export function Counter(){
   const [ counter, setCounter ] = useState(0);
 
-  function increment(props){
-    setCounter(counter + props)
+  function increment(){
+    setCounter(counter + 1)
   }
 
   return (
