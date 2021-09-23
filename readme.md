@@ -11,5 +11,8 @@
 - webpack.
 - babel.
 
-## Instruções para uso Local:
+## Instruções para uso Local (instalar):
 - yarn
+
+## Instruções para uso Local (Executar app):
+- yarn dev
